@@ -10,6 +10,6 @@ to show image in github README.md or other Markdown-Format-required Edit-box, in
 
 ```
 
-it will shows in this way
+it will be displayed in this way
 
 <img src="https://github.com/BensonLaur/image-storage/raw/master/BesLyric%20project/BesLyric%20demo.png" width="70%" height="70%">
